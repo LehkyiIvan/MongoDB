@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67361a3777490ca59daaa3df"
+  },
+  "commentId": "comment4",
+  "postId": "post4",
+  "userId": "user4",
+  "content": "Ще один тестовий коментар.",
+  "createdAt": {
+    "$date": "2024-11-14T15:41:43.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67361a3777490ca59daaa3e0"
+  },
+  "commentId": "comment5",
+  "postId": "post5",
+  "userId": "user5",
+  "content": "Коментар номер 5 з різним вмістом.",
+  "createdAt": {
+    "$date": "2024-11-14T15:41:43.511Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67361c3377490ca59daaa3e1"
+  },
+  "commentId": "comment1",
+  "postId": "post1",
+  "userId": "user1",
+  "content": "Це перший коментар до цього поста!",
+  "createdAt": {
+    "$date": "2024-11-14T15:50:11.317Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67361c3377490ca59daaa3e2"
+  },
+  "commentId": "comment2",
+  "postId": "post2",
+  "userId": "user2",
+  "content": "Це інший коментар з іншим вмістом.",
+  "createdAt": {
+    "$date": "2024-11-14T15:50:11.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67361c3377490ca59daaa3e3"
+  },
+  "commentId": "comment3",
+  "postId": "post3",
+  "userId": "user3",
+  "content": "Це ще один коментар до іншого поста.",
+  "createdAt": {
+    "$date": "2024-11-14T15:50:11.325Z"
+  }
+}]

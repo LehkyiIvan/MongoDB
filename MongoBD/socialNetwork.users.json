@@ -1,0 +1,142 @@
+[{
+  "_id": "user1",
+  "userId": "user1",
+  "email": "user1@example.com",
+  "password": "password1",
+  "firstName": "John",
+  "lastName": "Doe",
+  "interests": [
+    "sports",
+    "reading"
+  ],
+  "friends": [
+    "user2",
+    "user4",
+    "user4 user7",
+    "user3",
+    "user7"
+  ]
+},
+{
+  "_id": "user2",
+  "userId": "user2",
+  "email": "user2@example.com",
+  "password": "password2",
+  "firstName": "Jane",
+  "lastName": "Smith",
+  "interests": [
+    "music",
+    "movies"
+  ],
+  "friends": [
+    "user7"
+  ]
+},
+{
+  "_id": "user3",
+  "userId": "user3",
+  "email": "user3@example.com",
+  "password": "password3",
+  "firstName": "Mike",
+  "lastName": "Johnson",
+  "interests": [
+    "gaming",
+    "travel"
+  ],
+  "friends": [
+    "user7"
+  ]
+},
+{
+  "_id": "user4",
+  "userId": "user4",
+  "email": "user4@example.com",
+  "password": "password4",
+  "firstName": "Alice",
+  "lastName": "Williams",
+  "interests": [
+    "photography",
+    "fitness"
+  ],
+  "friends": []
+},
+{
+  "_id": "user5",
+  "userId": "user5",
+  "email": "user5@example.com",
+  "password": "password5",
+  "firstName": "Bob",
+  "lastName": "Brown",
+  "interests": [
+    "art",
+    "writing"
+  ],
+  "friends": []
+},
+{
+  "_id": "user6",
+  "userId": "user6",
+  "email": "user6@example.com",
+  "password": "password6",
+  "firstName": "Tom",
+  "lastName": "Jones",
+  "interests": [
+    "science",
+    "sports"
+  ],
+  "friends": []
+},
+{
+  "_id": "user7",
+  "userId": "user7",
+  "email": "user7@example.com",
+  "password": "password7",
+  "firstName": "Linda",
+  "lastName": "Garcia",
+  "interests": [
+    "cooking",
+    "travel"
+  ],
+  "friends": [
+    "user8"
+  ]
+},
+{
+  "_id": "user8",
+  "userId": "user8",
+  "email": "user8@example.com",
+  "password": "password8",
+  "firstName": "Robert",
+  "lastName": "Martinez",
+  "interests": [
+    "technology",
+    "reading"
+  ],
+  "friends": []
+},
+{
+  "_id": "user9",
+  "userId": "user9",
+  "email": "user9@example.com",
+  "password": "password9",
+  "firstName": "Emily",
+  "lastName": "Rodriguez",
+  "interests": [
+    "movies",
+    "fashion"
+  ],
+  "friends": []
+},
+{
+  "_id": "user10",
+  "userId": "user10",
+  "email": "user10@example.com",
+  "password": "password10",
+  "firstName": "James",
+  "lastName": "Miller",
+  "interests": [
+    "history",
+    "music"
+  ],
+  "friends": []
+}]

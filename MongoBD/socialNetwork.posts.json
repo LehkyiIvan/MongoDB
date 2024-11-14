@@ -1,0 +1,271 @@
+[{
+  "_id": "post1",
+  "postId": "post1",
+  "userId": "user1@example.com",
+  "content": "Це перший пост від користувача 1.",
+  "createdAt": "2023-11-12T10:00:00Z",
+  "reactions": {
+    "like": 1
+  },
+  "comments": [
+    {
+      "postId": "post1",
+      "userId": "user1",
+      "content": "Goode",
+      "createdAt": {
+        "$date": "2024-11-14T11:21:13.332Z"
+      }
+    },
+    {
+      "postId": "post1",
+      "userId": "user1",
+      "content": "Хороший пост",
+      "createdAt": {
+        "$date": "2024-11-14T11:25:38.697Z"
+      }
+    },
+    {
+      "postId": "post1",
+      "userId": "user4",
+      "content": "WOW",
+      "createdAt": {
+        "$date": "2024-11-14T12:01:27.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": "post2",
+  "postId": "post2",
+  "userId": "user2@example.com",
+  "content": "Це перший пост від користувача 2.",
+  "createdAt": "2023-11-12T11:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post3",
+  "postId": "post3",
+  "userId": "user3@example.com",
+  "content": "Це перший пост від користувача 3.",
+  "createdAt": "2023-11-12T12:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post4",
+  "postId": "post4",
+  "userId": "user4@example.com",
+  "content": "Це перший пост від користувача 4.",
+  "createdAt": "2023-11-12T13:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post5",
+  "postId": "post5",
+  "userId": "user5@example.com",
+  "content": "Це перший пост від користувача 5.",
+  "createdAt": "2023-11-12T14:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": [
+    {
+      "postId": "post5",
+      "userId": "user7",
+      "content": "Ого",
+      "createdAt": {
+        "$date": "2024-11-14T11:38:07.617Z"
+      }
+    }
+  ]
+},
+{
+  "_id": "post6",
+  "postId": "post6",
+  "userId": "user6@example.com",
+  "content": "Це перший пост від користувача 6.",
+  "createdAt": "2023-11-12T15:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post7",
+  "postId": "post7",
+  "userId": "user7@example.com",
+  "content": "Це перший пост від користувача 7.",
+  "createdAt": "2023-11-12T16:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post8",
+  "postId": "post8",
+  "userId": "user8@example.com",
+  "content": "Це перший пост від користувача 8.",
+  "createdAt": "2023-11-12T17:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post9",
+  "postId": "post9",
+  "userId": "user9@example.com",
+  "content": "Це перший пост від користувача 9.",
+  "createdAt": "2023-11-12T18:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post10",
+  "postId": "post10",
+  "userId": "user10@example.com",
+  "content": "Це перший пост від користувача 10.",
+  "createdAt": "2023-11-12T19:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post11",
+  "postId": "post11",
+  "userId": "user1@example.com",
+  "content": "Це другий пост від користувача 1.",
+  "createdAt": "2023-11-13T10:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post12",
+  "postId": "post12",
+  "userId": "user2@example.com",
+  "content": "Це другий пост від користувача 2.",
+  "createdAt": "2023-11-13T11:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post13",
+  "postId": "post13",
+  "userId": "user3@example.com",
+  "content": "Це другий пост від користувача 3.",
+  "createdAt": "2023-11-13T12:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post14",
+  "postId": "post14",
+  "userId": "user4@example.com",
+  "content": "Це другий пост від користувача 4.",
+  "createdAt": "2023-11-13T13:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post15",
+  "postId": "post15",
+  "userId": "user5@example.com",
+  "content": "Це другий пост від користувача 5.",
+  "createdAt": "2023-11-13T14:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post16",
+  "postId": "post16",
+  "userId": "user6@example.com",
+  "content": "Це другий пост від користувача 6.",
+  "createdAt": "2023-11-13T15:00:00Z",
+  "reactions": {
+    "like": 0
+  },
+  "comments": []
+},
+{
+  "_id": "post17",
+  "postId": "post17",
+  "userId": "user7@example.com",
+  "content": "Це другий пост від користувача 7.",
+  "createdAt": "2023-11-13T16:00:00Z",
+  "reactions": {
+    "like": 1
+  },
+  "comments": []
+},
+{
+  "_id": "post18",
+  "postId": "post18",
+  "userId": "user8@example.com",
+  "content": "Це другий пост від користувача 8.",
+  "createdAt": "2023-11-13T17:00:00Z",
+  "reactions": {
+    "like": 1
+  },
+  "comments": []
+},
+{
+  "_id": "post19",
+  "postId": "post19",
+  "userId": "user9@example.com",
+  "content": "Це другий пост від користувача 9.",
+  "createdAt": "2023-11-13T18:00:00Z",
+  "reactions": {
+    "like": 2
+  },
+  "comments": []
+},
+{
+  "_id": "post20",
+  "postId": "post20",
+  "userId": "user10@example.com",
+  "content": "Це другий пост від користувача 10.",
+  "createdAt": "2023-11-13T19:00:00Z",
+  "reactions": {
+    "like": 2
+  },
+  "comments": [
+    {
+      "postId": "post20",
+      "userId": "user3",
+      "content": "Вау",
+      "createdAt": {
+        "$date": "2024-11-14T11:29:30.077Z"
+      }
+    },
+    {
+      "postId": "post20",
+      "userId": "user3",
+      "content": "Вау",
+      "createdAt": {
+        "$date": "2024-11-14T11:29:43.214Z"
+      }
+    }
+  ]
+}]
